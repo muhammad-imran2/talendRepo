@@ -1,0 +1,74 @@
+SLF4J: Class path contains multiple SLF4J bindings.
+SLF4J: Found binding in [jar:file:/C:/Program%20Files%20(x86)/Talend-Studio/studio/plugins/org.eclipse.m2e.maven.runtime.slf4j.simple_1.18.0.20210402-1458/jars/slf4j-simple-1.7.5.jar!/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: Found binding in [file:/C:/Program%20Files%20(x86)/Talend-Studio/studio/configuration/org.eclipse.osgi/1161/0/.cp/org/slf4j/impl/StaticLoggerBinder.class]
+SLF4J: See http://www.slf4j.org/codes.html#multiple_bindings for an explanation.
+SLF4J: Actual binding is of type [org.slf4j.impl.SimpleLoggerFactory]
+[INFO] Disabling enhanced local repository: using legacy is strongly discouraged to ensure build reproducibility.
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< org.example.mdf_ft.job:j1_Copy >-------------------
+[INFO] Building MDF_FT j1_Copy-0.1.0 (0.1,Job Designs) 0.1.0
+[INFO] --------------------------------[ jar ]---------------------------------
+[WARNING] The POM for net.minidev:accessors-smart:jar:2.4.9 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-lang3:jar:3.10 is missing, no dependency information available
+[WARNING] The POM for net.minidev:json-smart:jar:2.4.9 is missing, no dependency information available
+[WARNING] The POM for org.slf4j:slf4j-api:jar:1.7.26 is missing, no dependency information available
+[INFO] 
+[INFO] --- builder-maven-plugin:8.0.12:generate (default) @ j1_Copy ---
+[INFO] Skipping ci-builder
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:resources (default-resources) @ j1_Copy ---
+[WARNING] The POM for commons-io:commons-io:jar:2.6 is missing, no dependency information available
+[WARNING] The POM for org.codehaus.plexus:plexus-utils:jar:3.4.1 is missing, no dependency information available
+[WARNING] The POM for org.codehaus.plexus:plexus-classworlds:jar:2.5.2 is missing, no dependency information available
+[WARNING] The POM for org.slf4j:slf4j-api:jar:1.7.30 is missing, no dependency information available
+[WARNING] The POM for com.google.guava:guava:jar:25.1-android is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-core:jar:3.0 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.0.0 is missing, no dependency information available
+[WARNING] Using platform encoding (UTF-8 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] Copying 1 resource
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:compile (default-compile) @ j1_Copy ---
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.19 is missing, no dependency information available
+[WARNING] The POM for org.eclipse.platform:org.eclipse.osgi:jar:3.15.100 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-settings:jar:3.0 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.16.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven:maven-settings:jar:2.2.1 is missing, no dependency information available
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:0.1 is missing, no dependency information available
+[INFO] Not compiling main sources
+[INFO] 
+[INFO] --- maven-resources-plugin:3.0.2:testResources (default-testResources) @ j1_Copy ---
+[INFO] Not copying test resources
+[INFO] 
+[INFO] --- maven-compiler-plugin:3.6.1:testCompile (default-testCompile) @ j1_Copy ---
+[INFO] Not compiling test sources
+[INFO] 
+[INFO] --- maven-surefire-plugin:2.20:test (default-test) @ j1_Copy ---
+[WARNING] The POM for org.slf4j:slf4j-jdk14:jar:1.7.34 is missing, no dependency information available
+[WARNING] The POM for junit:junit:jar:4.12 is missing, no dependency information available
+[INFO] Tests are skipped.
+[INFO] 
+[INFO] --- maven-jar-plugin:3.0.2:jar (default-jar) @ j1_Copy ---
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.0.1 is missing, no dependency information available
+[WARNING] The POM for commons-io:commons-io:jar:2.5 is missing, no dependency information available
+[WARNING] The POM for org.apache.commons:commons-compress:jar:1.11 is missing, no dependency information available
+[INFO] Building jar: C:\Projects\Talend\MDF_FT\talendRepo-652618389\MDF_FT\poms\jobs\process\j1_copy_0.1\target\j1_copy_0_1.jar
+[INFO] 
+[INFO] --- maven-assembly-plugin:3.0.0:single (default) @ j1_Copy ---
+[WARNING] The POM for org.apache.maven.shared:maven-shared-utils:jar:3.1.0 is missing, no dependency information available
+[WARNING] The POM for commons-codec:commons-codec:jar:1.6 is missing, no dependency information available
+[INFO] Reading assembly descriptor: C:\Projects\Talend\MDF_FT\talendRepo-652618389\MDF_FT\poms\jobs\process\j1_copy_0.1/src/main/assemblies/assembly.xml
+[WARNING] Missing POM for net.minidev:accessors-smart:jar:2.4.9
+[WARNING] Missing POM for org.apache.commons:commons-lang3:jar:3.10
+[WARNING] Missing POM for net.minidev:json-smart:jar:2.4.9
+[INFO] Building zip: C:\Projects\Talend\MDF_FT\talendRepo-652618389\MDF_FT\poms\jobs\process\j1_copy_0.1\target\j1_copy_0_1.zip
+[INFO] 
+[INFO] --- signer-maven-plugin:8.0.5:sign (sign) @ j1_Copy ---
+[INFO] Start to sign the job artifact
+[INFO] Start to sign artifact, the source file is j1_copy_0_1.zip and target file is j1_copy_0_1_sign_.zip
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  2.355 s
+[INFO] Finished at: 2023-08-06T11:49:27-04:00
+[INFO] ------------------------------------------------------------------------
