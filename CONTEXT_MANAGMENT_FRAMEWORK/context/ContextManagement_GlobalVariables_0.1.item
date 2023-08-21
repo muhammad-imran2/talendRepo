@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_0gsxoNc8EeqCH9uncZU0qw">
+    <contextParameter comment="Location of Context Files (Local or Cloud Engine or Remote Engine)" name="resource_directory_contextFiles" prompt="resource_directory_contextFiles?" promptNeeded="false" type="id_String" value="/opt/talend/contextmanagement" xmi:id="_0gtYsNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Context Storage Type to read from (File or DB)." name="contextStorageType" prompt="contextStorageType?" promptNeeded="false" type="id_String" value="&quot;File&quot;" xmi:id="_0gtYsdc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Environment parameter that can be leveraged to drive different logic based on execution environment" name="environment" prompt="environment?" promptNeeded="false" type="id_String" value="" xmi:id="_0gtYstc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Project Level Context File" name="enableProjectLevelContextFileLoad" prompt="enableProjectLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYs9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Job Level Context File" name="enableJobLevelContextFileLoad" prompt="enableJobLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYtNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Task Level Context File" name="enableTaskLevelContextFileLoad" prompt="enableTaskLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYtdc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Task Name or Id for loading Context File" name="taskName" prompt="taskName?" promptNeeded="false" type="id_String" value="" xmi:id="_0gtYttc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Print Context Variable Values (Password always hidden by default)" name="printContextVariableValues" prompt="printContextVariableValues?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYt9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Flag to set to load context variables in Job.  This is handy if there are child jobs and we do not want child jobs to load the context values again, but instead use the values from the parent job. Default Value is true and then overridden to false at the end of the first context load" name="loadContextInJob" prompt="loadContextInJob?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_0gtYuNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Allocate the directory path to hold temporary file for tMap disk mode" name="temp_dir_path" prompt="temp_dir_path?" promptNeeded="false" type="id_String" value="" xmi:id="_0gtYudc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="password for cryptographic file" name="crytographic_PWD" prompt="crytographic_PWD?" promptNeeded="false" type="id_Password" value="" xmi:id="_mSTVcOPCEeqr_sOOtrxHGg"/>
+    <contextParameter comment="file path for crytographic" name="crytographicFilePath" prompt="crytographicFilePath?" promptNeeded="false" type="id_String" value="&quot;C:/Users/vmehra.TALEND/Documents/Project/MBO\MBO-DataPrivacy/password&quot;" xmi:id="_mSTVcePCEeqr_sOOtrxHGg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Dev" xmi:id="_0gtYutc8EeqCH9uncZU0qw">
+    <contextParameter comment="Location of Context Files (Local or Cloud Engine or Remote Engine)" name="resource_directory_contextFiles" prompt="resource_directory_contextFiles?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/contextmanagement&quot;" xmi:id="_0gtYu9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Context Storage Type to read from (File or DB)." name="contextStorageType" prompt="contextStorageType?" promptNeeded="false" type="id_String" value="&quot;File&quot;" xmi:id="_0gtYvNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Environment parameter that can be leveraged to drive different logic based on execution environment" name="environment" prompt="environment?" promptNeeded="false" type="id_String" value="&quot;dev&quot;" xmi:id="_0gtYvdc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Project Level Context File" name="enableProjectLevelContextFileLoad" prompt="enableProjectLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYvtc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Job Level Context File" name="enableJobLevelContextFileLoad" prompt="enableJobLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYv9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Task Level Context File" name="enableTaskLevelContextFileLoad" prompt="enableTaskLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYwNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Task Name or Id for loading Context File" name="taskName" prompt="taskName?" promptNeeded="false" type="id_String" value="" xmi:id="_0gtYwdc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Print Context Variable Values (Password always hidden by default)" name="printContextVariableValues" prompt="printContextVariableValues?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYwtc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Flag to set to load context variables in Job.  This is handy if there are child jobs and we do not want child jobs to load the context values again, but instead use the values from the parent job. Default Value is true and then overridden to false at the end of the first context load" name="loadContextInJob" prompt="loadContextInJob?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_0gtYw9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Allocate the directory path to hold temporary file for tMap disk mode" name="temp_dir_path" prompt="temp_dir_path?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/&quot;" xmi:id="_0gtYxNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="password for cryptographic file" name="crytographic_PWD" prompt="crytographic_PWD?" promptNeeded="false" type="id_Password" value="" xmi:id="_mSTVcuPCEeqr_sOOtrxHGg"/>
+    <contextParameter comment="file path for crytographic" name="crytographicFilePath" prompt="crytographicFilePath?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/password&quot;" xmi:id="_mSTVc-PCEeqr_sOOtrxHGg"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_0gtYxdc8EeqCH9uncZU0qw">
+    <contextParameter comment="Location of Context Files (Local or Cloud Engine or Remote Engine)" name="resource_directory_contextFiles" prompt="resource_directory_contextFiles?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/contextmanagement&quot;" xmi:id="_0gtYxtc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Context Storage Type to read from (File or DB)." name="contextStorageType" prompt="contextStorageType?" promptNeeded="false" type="id_String" value="&quot;File&quot;" xmi:id="_0gtYx9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Environment parameter that can be leveraged to drive different logic based on execution environment" name="environment" prompt="environment?" promptNeeded="false" type="id_String" value="&quot;test&quot;" xmi:id="_0gtYyNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Project Level Context File" name="enableProjectLevelContextFileLoad" prompt="enableProjectLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYydc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Job Level Context File" name="enableJobLevelContextFileLoad" prompt="enableJobLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYytc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Load Task Level Context File" name="enableTaskLevelContextFileLoad" prompt="enableTaskLevelContextFileLoad?" promptNeeded="false" type="id_Boolean" value="false" xmi:id="_0gtYy9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Task Name or Id for loading Context File" name="taskName" prompt="taskName?" promptNeeded="false" type="id_String" value="" xmi:id="_0gtYzNc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Print Context Variable Values (Password always hidden by default)" name="printContextVariableValues" prompt="printContextVariableValues?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_0gtYzdc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Flag to set to load context variables in Job.  This is handy if there are child jobs and we do not want child jobs to load the context values again, but instead use the values from the parent job. Default Value is true and then overridden to false at the end of the first context load" name="loadContextInJob" prompt="loadContextInJob?" promptNeeded="false" type="id_Boolean" value="true" xmi:id="_0gtYztc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Allocate the directory path to hold temporary file for tMap disk mode" name="temp_dir_path" prompt="temp_dir_path?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/&quot;" xmi:id="_0gtYz9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="password for cryptographic file" name="crytographic_PWD" prompt="crytographic_PWD?" promptNeeded="false" type="id_Password" value="" xmi:id="_mSTVdOPCEeqr_sOOtrxHGg"/>
+    <contextParameter comment="file path for crytographic" name="crytographicFilePath" prompt="crytographicFilePath?" promptNeeded="false" type="id_String" value="&quot;C:/Temp/password&quot;" xmi:id="_mSTVdePCEeqr_sOOtrxHGg"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_78461d82-5b6d-4db8-bf6e-ad42a07327e4"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>lF+wvhpZ0LQv/r4w9KReKYpiANFdrAYkjOEVuRpfg25Dm15vCjRulwEG5E5UgmDnardnc9leYJ6e&#13;
+mRIViSYHog==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_c4966e8e-d26d-4419-a6cf-48a7448dca5d"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>3vVyR2XE5lqW3R8PdEgVB/t2yo0d3EAw4Ap1vTNj1ma586RbvIpqW1j0WCZgp41SGk1nFrXh4l/6&#13;
+KpoIdMRMNg==</DigestValue></Reference></SignedInfo><SignatureValue>GeTY5zfUtM6KxklhO+crJQHvV3+eSOQmsb5fsL+3JsxrPx3UeExBR0FzqPh2aFoUpBFiyKlmCVCn&#13;
+qwf1hmuH5rgdr+RlLyguvudUAaQdctDJABCm2FRqyjpluZ8RtbDD76xc3cKZ0u6IarRi4aab0g2Y&#13;
+6nxPdREyuL7IMP8RAwUBLhWRX8EF2G4fGybKECpB7DatmFmzJjoqU2oMKQ9Pzxnu80ZYBSd19ipR&#13;
+XRsUGNRTAgO2d8ML20eUJtacLtgMSPhvZjWXFgVrBzPuXhVOqx2slhWzIPZON1g6Ao4PL9nBx9Ck&#13;
+Nrh6w4NeR+qK0z+dwZJYXMYd9Xq9TSQkPuMSBA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_c4966e8e-d26d-4419-a6cf-48a7448dca5d" Target="#_78461d82-5b6d-4db8-bf6e-ad42a07327e4"><Timestamp>2023-08-10 22:01:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

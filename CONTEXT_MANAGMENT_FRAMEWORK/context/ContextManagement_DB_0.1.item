@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><xmi:XMI xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:version="2.0">
+  <talendfile:ContextType confirmationNeeded="false" name="Default" xmi:id="_0f0n4Nc8EeqCH9uncZU0qw">
+    <contextParameter comment="Port for connecting Database " name="globalContext_DB_Port" prompt="globalContext_DB_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_0f0n4dc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="String to specify any additional JDBC Connection parameters" name="globalContext_DB__AdditionalParams" prompt="globalContext_DB__AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0f0n4tc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database username" name="globalContext_DB_Username" prompt="globalContext_DB_Username?" promptNeeded="false" type="id_String" value="" xmi:id="_0f0n49c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Password" name="globalContext_DB_Password" prompt="globalContext_DB_Password?" promptNeeded="false" type="id_Password" value="" xmi:id="_0f0n5Nc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Hostname" name="globalContext_DB_Host" prompt="globalContext_DB_Host?" promptNeeded="false" type="id_String" value="" xmi:id="_0f0n5dc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database schema" name="globalContext_DB_Database_Schema" prompt="globalContext_DB_Database_Schema?" promptNeeded="false" type="id_String" value="" xmi:id="_0f0n5tc8EeqCH9uncZU0qw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Dev" xmi:id="_0f0n59c8EeqCH9uncZU0qw">
+    <contextParameter comment="Port for connecting Database " name="globalContext_DB_Port" prompt="globalContext_DB_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_0f1O8Nc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="String to specify any additional JDBC Connection parameters" name="globalContext_DB__AdditionalParams" prompt="globalContext_DB__AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0f1O8dc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database username" name="globalContext_DB_Username" prompt="globalContext_DB_Username?" promptNeeded="false" type="id_String" value="root" xmi:id="_0f1O8tc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Password" name="globalContext_DB_Password" prompt="globalContext_DB_Password?" promptNeeded="false" type="id_Password" value="" xmi:id="_0f1O89c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Hostname" name="globalContext_DB_Host" prompt="globalContext_DB_Host?" promptNeeded="false" type="id_String" value="dev" xmi:id="_0f1O9Nc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database schema" name="globalContext_DB_Database_Schema" prompt="globalContext_DB_Database_Schema?" promptNeeded="false" type="id_String" value="dev" xmi:id="_0f1O9dc8EeqCH9uncZU0qw"/>
+  </talendfile:ContextType>
+  <talendfile:ContextType confirmationNeeded="false" name="Test" xmi:id="_0f1O9tc8EeqCH9uncZU0qw">
+    <contextParameter comment="Port for connecting Database " name="globalContext_DB_Port" prompt="globalContext_DB_Port?" promptNeeded="false" type="id_String" value="3306" xmi:id="_0f1O99c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="String to specify any additional JDBC Connection parameters" name="globalContext_DB__AdditionalParams" prompt="globalContext_DB__AdditionalParams?" promptNeeded="false" type="id_String" value="" xmi:id="_0f1O-Nc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database username" name="globalContext_DB_Username" prompt="globalContext_DB_Username?" promptNeeded="false" type="id_String" value="" xmi:id="_0f1O-dc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Password" name="globalContext_DB_Password" prompt="globalContext_DB_Password?" promptNeeded="false" type="id_Password" value="" xmi:id="_0f1O-tc8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database Hostname" name="globalContext_DB_Host" prompt="globalContext_DB_Host?" promptNeeded="false" type="id_String" value="" xmi:id="_0f1O-9c8EeqCH9uncZU0qw"/>
+    <contextParameter comment="Database schema" name="globalContext_DB_Database_Schema" prompt="globalContext_DB_Database_Schema?" promptNeeded="false" type="id_String" value="" xmi:id="_0f1O_Nc8EeqCH9uncZU0qw"/>
+  </talendfile:ContextType>
+<Signature xmlns="http://www.w3.org/2000/09/xmldsig#" Id="_c7d4f287-1f6c-4f83-b507-8de9101301b7"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/><SignatureMethod Algorithm="http://www.w3.org/2001/04/xmldsig-more#rsa-sha512"/><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>eMSPkHqn0iaumFKhR9Bf+CTRtPqSF2gSQhREJI7OsjybBowCAt5NmUSnncl4vVHJDqY4/Q0h9juO&#13;
+3Ylp2lAcXw==</DigestValue></Reference><Reference Type="http://www.w3.org/2000/09/xmldsig#SignatureProperties" URI="#_33fb9c91-f1ba-4575-9bc3-2919613222e0"><Transforms><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#"/></Transforms><DigestMethod Algorithm="http://www.w3.org/2001/04/xmlenc#sha512"/><DigestValue>KEH8JeuuzlrOo78YGlpJKqtPOzMknHMlkvP8kW/AxMmfY14+AnwG/YiArZ3b8xqwVjsFrsaLLxlH&#13;
+ZunJt03Q/w==</DigestValue></Reference></SignedInfo><SignatureValue>pTJ2g8xZID0vqUKbj68oDsbrWuRvgyhCXpAjtMC3ZH0/r7UC4Z9dScHYBnAMZcgjgUHm2cmSEhvy&#13;
+aR3ZHT0kfmqfQ+u5YLJ5HpFn9ny54slBi0iarGlgdVxEsI0gEHwTFmQaYf7/KwShIMLwUAc7Vus5&#13;
+RcFZAEUc5wQYhu/7TKmwFUa+LTe3rmQ6QJ6vCuCdgzJ2zX87hU2yFkdDvBUaQIwBFdEaDqhKy4cI&#13;
+S6JcLBOQBCqFBqraqgHDFpr8esyaQXzYWf3bGkrUrYTBkSxNF0vfaGfABLA5u6U4zRR0qyFVhOCC&#13;
+3YB5ch5c4Re7c3r5cP3gnw2Lv2e9pk7Trp0wvA==</SignatureValue><KeyInfo><X509Data><X509SubjectName>C=FR,ST=Paris,L=Paris,O=Talend Inc.,OU=R&amp;D,CN=Talend Code Signing certificate</X509SubjectName><X509Certificate>MIIFADCCAuigAwIBAgIIA2OsD6bRyj0wDQYJKoZIhvcNAQELBQAwgY0xCzAJBgNVBAYTAkZSMQ4w&#13;
+DAYDVQQIEwVQYXJpczEOMAwGA1UEBxMFUGFyaXMxFDASBgNVBAoTC1RhbGVuZCBJbmMuMQwwCgYD&#13;
+VQQLDANSJkQxFjAUBgNVBAMMDVRhbGVuZCBSJkQgQ0ExIjAgBgkqhkiG9w0BCQEWE3NlY3VyaXR5&#13;
+QHRhbGVuZC5jb20wHhcNMTkwNjAzMDgxODIwWhcNMjkwNjAzMDAwMDAwWjB7MSgwJgYDVQQDEx9U&#13;
+YWxlbmQgQ29kZSBTaWduaW5nIGNlcnRpZmljYXRlMQwwCgYDVQQLDANSJkQxFDASBgNVBAoTC1Rh&#13;
+bGVuZCBJbmMuMQ4wDAYDVQQHEwVQYXJpczEOMAwGA1UECBMFUGFyaXMxCzAJBgNVBAYTAkZSMIIB&#13;
+IjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAp5TMF8BmRt8dY51t9kIDdDkoOKVVytJN2gn2&#13;
+DhMGi8hzpUofNDykJDhe9SPqyJdGZ6o/h7laTA0/CivKyPT1OJQ9E2gMHKs8cTZM/cO2w0Atlqkl&#13;
+alIxepol0DNnUtmECVBqdnVsJesfmdoeptxgJAtxYbquFsTsrATNY2cscXpwmOca/Ewip48WQLFx&#13;
+e5s067jaIsAQGRIqpIup3bOtWBySrtImJ40lQCPeEcl96qzkv3utaVaNc3ukkhYkCDbMbK8NVd1B&#13;
+CVeeIBAe+n/SdpHH20o+6eIiZecsBGDLwlTYrFvuVqAa6xI7y8Vdz6irjPAVBEtG/iOc782aJ/lZ&#13;
+TwIDAQABo3UwczAMBgNVHRMBAf8EAjAAMA4GA1UdDwEB/wQEAwIHgDATBgNVHSUEDDAKBggrBgEF&#13;
+BQcDAzAdBgNVHQ4EFgQUGdfzQEbjQnANq28sfhEMTx+rsOcwHwYDVR0jBBgwFoAU530Lcvy1gZnG&#13;
+gCvZLOyCczK1qPcwDQYJKoZIhvcNAQELBQADggIBAEr22wnaQwZm2dhbUCqD+qZpTq2AF/tzxqAM&#13;
+eL/CiTjPbTblS4SNNwCKvTgMe9ucpUbenXmK7xE+DU9dN4om+t3VHbkOLQVyuLcd2WGsy7ZGwRvA&#13;
+f+TFwLbwjyTukOGm6Sd1qyZgvCPzBsKnft6vscvGy2yEpmFCeHJyBP8pvchg607zguRdNbkGYZXw&#13;
+G6jNipAbTtzdPTFKKr1bEf0sUGqMrlZIMPjflh2Vewu8ImNdX5IZdvBD6DdFVOC5wqV6u+W9ukE/&#13;
+mXZxDBYNl2AF7FTh04ucEVN3mHv7m2L0uFvUlhxchcagJhJsdQG+A0LVCemHbp6CSNQJx02KxqUG&#13;
+hakvpzhOyLo91h8YAQrEZJdNuKA8IYmBrFZQZDCz0uywKSyFfzPyJhvxylCLG/iDPPfE0VWcrMJ/&#13;
+WQJly/2XPg/NBCTF3pSKS0kCiA7PeaI3cWkMYYA3PMwYDvzqs1opBRglG7ikj0bQxSm3lcjMuuvW&#13;
+gBRksFKjP3K/nztsjSoYITOM9jR29ReIL3v0E8RbAFwA2RGq6Dxd0ixfbucMesy5Gnr8tfYy6rW+&#13;
+qSQqd3ah4+PSzBNVwIB4ytpdrG3SlhCI2i2Th8ek8Sjsaquh9qPAerWNd2+84HWOOGj1Xe1qc6vg&#13;
+qqu6JoK9EXKDiwBqDVkueIa+MhamE1VDnhn2pPui</X509Certificate></X509Data></KeyInfo><Object><SignatureProperties><SignatureProperty Id="_33fb9c91-f1ba-4575-9bc3-2919613222e0" Target="#_c7d4f287-1f6c-4f83-b507-8de9101301b7"><Timestamp>2023-08-10 22:01:02</Timestamp></SignatureProperty></SignatureProperties></Object></Signature></xmi:XMI>

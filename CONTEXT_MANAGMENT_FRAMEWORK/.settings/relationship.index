@@ -1,0 +1,93 @@
+[ {
+  "baseItem" : {
+    "id" : "_1P86kI10Eem0UsZzW9eKcg",
+    "version" : "0.1",
+    "type" : "job"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_0fi7E9c8EeqCH9uncZU0qw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "TalendEncryption",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0fi7E9c8EeqCH9uncZU0qw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_0fi7FNc8EeqCH9uncZU0qw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_0fi7Fdc8EeqCH9uncZU0qw",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "_RC8JEI1kEem0UsZzW9eKcg",
+    "version" : "Latest",
+    "type" : "joblet"
+  }, {
+    "id" : "TalendEncryption",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0fi7FNc8EeqCH9uncZU0qw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "TalendEncryption",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+}, {
+  "baseItem" : {
+    "id" : "_0fi7Fdc8EeqCH9uncZU0qw",
+    "version" : "0.1",
+    "type" : "joblet"
+  },
+  "relatedItems" : [ {
+    "id" : "_1bwl8IX1Eem4I64wW9I-Og",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "_KWbrgIL1EemhiP054CDFZw",
+    "version" : "Latest",
+    "type" : "context"
+  }, {
+    "id" : "TalendEncryption",
+    "version" : "Latest",
+    "type" : "routine"
+  } ]
+} ]

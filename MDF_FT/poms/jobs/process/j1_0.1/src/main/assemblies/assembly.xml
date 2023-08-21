@@ -40,19 +40,39 @@
             <destName>dom4j-2.1.3.jar</destName>
         </file>
         <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\thoughtworks\paranamer\paranamer\2.7\paranamer-2.7.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>paranamer-2.7.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\oauth2-oidc-sdk\9.7\oauth2-oidc-sdk-9.7.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>oauth2-oidc-sdk-9.7.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\avro\avro\1.8.2\avro-1.8.2.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>avro-1.8.2.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\oauth2-oidc-sdk\9.32\oauth2-oidc-sdk-9.32.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>oauth2-oidc-sdk-9.32.jar</destName>
+        </file>
+        <file>
             <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\jboss\marshalling\jboss-marshalling\2.0.12.Final\jboss-marshalling-2.0.12.Final.jar</source>
             <outputDirectory>lib</outputDirectory>
             <destName>jboss-marshalling-2.0.12.Final.jar</destName>
         </file>
         <file>
-            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.17.1\log4j-slf4j-impl-2.17.1.jar</source>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\ow2\asm\asm\9.3\asm-9.3.jar</source>
             <outputDirectory>lib</outputDirectory>
-            <destName>log4j-slf4j-impl-2.17.1.jar</destName>
+            <destName>asm-9.3.jar</destName>
         </file>
         <file>
-            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\slf4j\slf4j-api\1.7.34\slf4j-api-1.7.34.jar</source>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\lang-tag\1.6\lang-tag-1.6.jar</source>
             <outputDirectory>lib</outputDirectory>
-            <destName>slf4j-api-1.7.34.jar</destName>
+            <destName>lang-tag-1.6.jar</destName>
         </file>
         <file>
             <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\talend\components\lib\talend_file_enhanced\1.3\talend_file_enhanced-1.3.jar</source>
@@ -60,19 +80,109 @@
             <destName>talend_file_enhanced-1.3.jar</destName>
         </file>
         <file>
-            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.1\log4j-api-2.17.1.jar</source>
-            <outputDirectory>lib</outputDirectory>
-            <destName>log4j-api-2.17.1.jar</destName>
-        </file>
-        <file>
             <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\logging\log4j\log4j-core\2.17.1\log4j-core-2.17.1.jar</source>
             <outputDirectory>lib</outputDirectory>
             <destName>log4j-core-2.17.1.jar</destName>
         </file>
         <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\logging\log4j\log4j-api\2.17.1\log4j-api-2.17.1.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>log4j-api-2.17.1.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\commons-logging\commons-logging\1.2\commons-logging-1.2.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>commons-logging-1.2.jar</destName>
+        </file>
+        <file>
             <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\talend\daikon\crypto-utils\7.0.5\crypto-utils-7.0.5.jar</source>
             <outputDirectory>lib</outputDirectory>
             <destName>crypto-utils-7.0.5.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\msal4j\1.10.1\msal4j-1.10.1.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>msal4j-1.10.1.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\commons-logging\commons-logging\1.1.3\commons-logging-1.1.3.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>commons-logging-1.1.3.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\thoughtworks\paranamer\paranamer\2.8\paranamer-2.8.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>paranamer-2.8.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\azure-storage\8.6.6\azure-storage-8.6.6.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>azure-storage-8.6.6.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\azure-storage\8.6.0\azure-storage-8.6.0.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>azure-storage-8.6.0.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\avro\avro\1.8.1\avro-1.8.1.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>avro-1.8.1.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\azure-keyvault-core\1.2.4\azure-keyvault-core-1.2.4.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>azure-keyvault-core-1.2.4.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\apache\logging\log4j\log4j-slf4j-impl\2.17.1\log4j-slf4j-impl-2.17.1.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>log4j-slf4j-impl-2.17.1.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\msal4j\1.12.0\msal4j-1.12.0.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>msal4j-1.12.0.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\slf4j\slf4j-api\1.7.34\slf4j-api-1.7.34.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>slf4j-api-1.7.34.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\ow2\asm\asm\9.5\asm-9.5.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>asm-9.5.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\content-type\2.1\content-type-2.1.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>content-type-2.1.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\content-type\2.2\content-type-2.2.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>content-type-2.2.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\xerial\snappy\snappy-java\1.1.1.3\snappy-java-1.1.1.3.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>snappy-java-1.1.1.3.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\microsoft\azure\azure-keyvault-core\0.9.7\azure-keyvault-core-0.9.7.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>azure-keyvault-core-0.9.7.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\org\xerial\snappy\snappy-java\1.1.2.6\snappy-java-1.1.2.6.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>snappy-java-1.1.2.6.jar</destName>
+        </file>
+        <file>
+            <source>C:\Program Files (x86)\Talend-Studio\studio\configuration\.m2\repository\com\nimbusds\lang-tag\1.5\lang-tag-1.5.jar</source>
+            <outputDirectory>lib</outputDirectory>
+            <destName>lang-tag-1.5.jar</destName>
         </file>
     </files>
     <fileSets>
@@ -276,6 +386,7 @@
             <outputDirectory>lib</outputDirectory>
             <includes>
                 <include>org.example.mdf_ft.code:routines:jar:8.0.1</include>
+                <include>org.talend.libraries:talend-codegen-utils:jar:0.34.0</include>
                 <include>org.talend.libraries:antlr-runtime-3.5.2:jar:6.0.0</include>
                 <include>org.talend.libraries:org.talend.dataquality.parser:jar:8.0.1</include>
             </includes>
@@ -285,14 +396,201 @@
         <dependencySet>
             <outputDirectory>lib</outputDirectory>
             <includes>
-                <include>org.apache.commons:commons-lang3:jar:3.10</include>
-                <include>org.talend.daikon:audit-log4j2:jar:1.16.1</include>
+                <include>io.netty:netty-handler:jar:4.1.86.Final</include>
                 <include>org.talend.components.lib:job-audit:jar:1.5</include>
+                <include>org.apache.logging.log4j:log4j-jcl:jar:2.17.1</include>
+                <include>org.talend.sdk.component:component-runtime-design-extension:jar:1.57.1</include>
+                <include>org.apache.geronimo.specs:geronimo-annotation_1.3_spec:jar:1.2</include>
+                <include>org.apache.xbean:xbean-asm9-shaded:jar:4.20</include>
                 <include>net.minidev:accessors-smart:jar:2.4.9</include>
+                <include>com.fasterxml.jackson.module:jackson-module-scala_2.12:jar:2.13.4</include>
+                <include>org.apache.httpcomponents:httpcore:jar:4.4.13</include>
+                <include>org.apache.maven.resolver:maven-resolver-impl:jar:1.8.2</include>
+                <include>org.codehaus.jackson:jackson-mapper-asl:jar:1.9.16-TALEND</include>
+                <include>org.apache.hadoop:hadoop-azure-datalake:jar:3.2.4</include>
+                <include>org.talend.components:azure-dls-gen2:jar:1.46.0</include>
+                <include>commons-collections:commons-collections:jar:3.2.2</include>
+                <include>commons-net:commons-net:jar:3.9.0</include>
+                <include>org.apache.parquet:parquet-jackson:jar:1.10.1</include>
+                <include>javax.activation:javax.activation-api:jar:1.2.0</include>
+                <include>io.netty:netty-handler-proxy:jar:4.1.86.Final</include>
+                <include>io.netty:netty-transport:jar:4.1.86.Final</include>
+                <include>org.talend.components:components-api:jar:0.37.22</include>
+                <include>io.projectreactor.netty:reactor-netty-core:jar:1.0.25</include>
+                <include>com.microsoft.azure:azure-data-lake-store-sdk:jar:2.2.9</include>
+                <include>org.talend.components:common-io:jar:1.46.0</include>
+                <include>org.apache.commons:commons-lang3:jar:3.10</include>
+                <include>com.fasterxml.jackson.jaxrs:jackson-jaxrs-base:jar:2.13.4</include>
+                <include>io.netty:netty-resolver:jar:4.1.86.Final</include>
+                <include>org.json4s:json4s-scalap_2.12:jar:3.5.3</include>
+                <include>org.codehaus.jackson:jackson-xc:jar:1.9.2</include>
+                <include>org.apache.hadoop:hadoop-client:jar:3.2.4</include>
                 <include>org.talend.daikon:logging-event-layout:jar:1.16.1</include>
-                <include>net.minidev:json-smart:jar:2.4.9</include>
-                <include>org.ow2.asm:asm:jar:9.5</include>
+                <include>com.fasterxml.jackson.datatype:jackson-datatype-jsr310:jar:2.13.4</include>
+                <include>org.reactivestreams:reactive-streams:jar:1.0.3</include>
+                <include>org.apache.geronimo.specs:geronimo-jsonb_1.0_spec:jar:1.2</include>
+                <include>org.checkerframework:checker-qual:jar:3.5.0</include>
+                <include>com.fasterxml.jackson.dataformat:jackson-dataformat-xml:jar:2.13.4</include>
+                <include>io.netty:netty-codec-socks:jar:4.1.86.Final</include>
+                <include>org.apache.xbean:xbean-finder-shaded:jar:4.20</include>
+                <include>org.talend.sdk.component:component-api:jar:1.57.1</include>
+                <include>org.apache.logging.log4j:log4j-1.2-api:jar:2.17.1</include>
+                <include>com.chuusai:shapeless_2.12:jar:2.3.3</include>
+                <include>org.talend.sdk.component:component-runtime-impl:jar:1.57.1</include>
+                <include>com.google.guava:failureaccess:jar:1.0.1</include>
+                <include>org.apache.johnzon:johnzon-jsonb:jar:1.2.19</include>
+                <include>io.netty:netty-transport-classes-kqueue:jar:4.1.86.Final</include>
+                <include>org.json4s:json4s-core_2.12:jar:3.5.3</include>
+                <include>org.talend.daikon:daikon-url-validation:jar:6.4.2</include>
+                <include>commons-codec:commons-codec:jar:1.14</include>
+                <include>org.apache.commons:commons-compress:jar:1.21</include>
+                <include>io.netty:netty-common:jar:4.1.86.Final</include>
+                <include>org.apache.maven.resolver:maven-resolver-util:jar:1.8.2</include>
+                <include>net.java.dev.jna:jna-platform:jar:5.6.0</include>
+                <include>jakarta.activation:jakarta.activation-api:jar:1.2.1</include>
+                <include>org.osgi:org.osgi.service.component.annotations:jar:1.3.0</include>
+                <include>org.scala-lang:scala-library:jar:2.12.12</include>
+                <include>com.azure:azure-storage-internal-avro:jar:12.3.0</include>
+                <include>javax.annotation:javax.annotation-api:jar:1.3</include>
+                <include>io.netty:netty-codec-dns:jar:4.1.86.Final</include>
+                <include>javax.xml.bind:jaxb-api:jar:2.2.11</include>
+                <include>commons-pool:commons-pool:jar:1.6</include>
+                <include>org.eclipse.jetty:jetty-util:jar:9.4.48.v20220622</include>
+                <include>org.apache.maven.resolver:maven-resolver-named-locks:jar:1.8.2</include>
+                <include>com.squareup.okhttp:okhttp:jar:2.7.5</include>
+                <include>commons-io:commons-io:jar:2.8.0</include>
+                <include>com.nimbusds:nimbus-jose-jwt:jar:9.22</include>
+                <include>org.talend.components:components-azurestorage:jar:0.37.22</include>
+                <include>org.apache.hadoop:hadoop-hdfs-client:jar:3.2.4</include>
+                <include>org.ops4j.pax.url:pax-url-aether:jar:2.6.12</include>
+                <include>com.azure:azure-storage-blob:jar:12.17.0</include>
+                <include>org.apache.parquet:parquet-encoding:jar:1.10.1</include>
+                <include>org.ops4j.pax.url:pax-url-aether-support:jar:2.6.12</include>
+                <include>org.apache.maven.resolver:maven-resolver-api:jar:1.8.2</include>
+                <include>org.talend.components:stream-avro:jar:1.46.0</include>
+                <include>org.codehaus.jackson:jackson-core-asl:jar:1.9.16-TALEND</include>
+                <include>org.codehaus.jettison:jettison:jar:1.5.4</include>
+                <include>net.java.dev.jna:jna:jar:5.6.0</include>
+                <include>org.apache.commons:commons-csv:jar:1.10.0</include>
+                <include>com.fasterxml.woodstox:woodstox-core:jar:6.5.0</include>
+                <include>org.apache.hadoop:hadoop-yarn-api:jar:3.2.4</include>
+                <include>io.netty:netty-transport-classes-epoll:jar:4.1.86.Final</include>
+                <include>org.apache.hadoop:hadoop-auth:jar:3.2.4</include>
+                <include>org.apache.hadoop:hadoop-azure-tlnd:jar:3.2.2.1</include>
+                <include>com.azure:azure-core:jar:1.28.0</include>
+                <include>org.talend.sdk.component:component-spi:jar:1.57.1</include>
+                <include>com.google.protobuf:protobuf-java:jar:3.19.6</include>
+                <include>org.json4s:json4s-ast_2.12:jar:3.5.3</include>
+                <include>com.sun.jersey:jersey-client:jar:1.19</include>
+                <include>com.google.inject:guice:jar:4.0</include>
                 <include>org.talend.daikon:audit-common:jar:1.16.1</include>
+                <include>org.apache.hadoop:hadoop-yarn-common:jar:3.2.4</include>
+                <include>com.microsoft.azure:msal4j-persistence-extension:jar:1.1.0</include>
+                <include>org.scala-lang.modules:scala-collection-compat_2.12:jar:2.1.6</include>
+                <include>io.netty:netty-resolver-dns:jar:4.1.86.Final</include>
+                <include>io.netty:netty-tcnative-classes:jar:2.0.56.Final</include>
+                <include>io.netty:netty-transport-native-unix-common:jar:4.1.86.Final</include>
+                <include>org.talend.components:components-common:jar:0.37.22</include>
+                <include>com.azure:azure-identity:jar:1.5.1</include>
+                <include>org.jsoup:jsoup:jar:1.15.3</include>
+                <include>org.apache.parquet:parquet-hadoop:jar:1.10.1</include>
+                <include>com.google.guava:guava:jar:30.0-jre</include>
+                <include>com.fasterxml.jackson.core:jackson-annotations:jar:2.13.4</include>
+                <include>com.fasterxml.jackson.core:jackson-core:jar:2.13.4</include>
+                <include>org.talend.daikon:daikon:jar:7.0.5</include>
+                <include>io.netty:netty-buffer:jar:4.1.86.Final</include>
+                <include>org.codehaus.jackson:jackson-jaxrs:jar:1.9.2</include>
+                <include>com.google.guava:listenablefuture:jar:9999.0-empty-to-avoid-conflict-with-guava</include>
+                <include>com.google.errorprone:error_prone_annotations:jar:2.3.4</include>
+                <include>org.apache.hadoop:hadoop-annotations:jar:3.2.4</include>
+                <include>com.sun.jersey:jersey-server:jar:1.19</include>
+                <include>org.apache.commons:commons-configuration2:jar:2.8.0</include>
+                <include>com.sun.xml.bind:jaxb-impl:jar:2.2.3-1</include>
+                <include>org.apache.hadoop:hadoop-common:jar:3.2.4</include>
+                <include>org.apache.johnzon:johnzon-core:jar:1.2.19</include>
+                <include>org.tukaani:xz:jar:1.5</include>
+                <include>commons-cli:commons-cli:jar:1.2</include>
+                <include>jakarta.xml.bind:jakarta.xml.bind-api:jar:2.3.3</include>
+                <include>org.talend.sdk.component:component-runtime-di:jar:1.57.1</include>
+                <include>net.minidev:json-smart:jar:2.4.9</include>
+                <include>javax.servlet.jsp:jsp-api:jar:2.1</include>
+                <include>com.azure:azure-storage-common:jar:12.16.0</include>
+                <include>com.google.j2objc:j2objc-annotations:jar:1.3</include>
+                <include>org.apache.hadoop:hadoop-mapreduce-client-jobclient:jar:3.2.4</include>
+                <include>javax.inject:javax.inject:jar:1</include>
+                <include>org.talend.components.lib:azure-utils:jar:1.0.5</include>
+                <include>org.wildfly.openssl:wildfly-openssl:jar:2.2.5.Final</include>
+                <include>com.azure:azure-core-http-netty:jar:1.12.0</include>
+                <include>com.sun.jersey:jersey-servlet:jar:1.19</include>
+                <include>io.netty:netty-codec-http:jar:4.1.86.Final</include>
+                <include>org.talend.daikon:daikon-exception:jar:7.0.5</include>
+                <include>javax.servlet:javax.servlet-api:jar:3.1.0</include>
+                <include>io.delta:delta-standalone_2.12:jar:0.2.0.1-talend</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:2.0.56.Final</include>
+                <include>com.sun.jersey:jersey-json:jar:1.19</include>
+                <include>org.apache.httpcomponents:httpclient:jar:4.5.13</include>
+                <include>org.json4s:json4s-jackson_2.12:jar:3.5.3</include>
+                <include>org.talend.components:stream-api:jar:1.46.0</include>
+                <include>org.apache.geronimo.specs:geronimo-json_1.1_spec:jar:1.3</include>
+                <include>io.projectreactor:reactor-core:jar:3.4.17</include>
+                <include>org.apache.parquet:parquet-common:jar:1.10.1</include>
+                <include>org.apache.maven.resolver:maven-resolver-spi:jar:1.8.2</include>
+                <include>org.scala-lang.modules:scala-xml_2.12:jar:1.0.6</include>
+                <include>commons-beanutils:commons-beanutils:jar:1.9.4</include>
+                <include>com.sun.jersey.contribs:jersey-guice:jar:1.19</include>
+                <include>com.azure:azure-storage-file-datalake:jar:12.10.0</include>
+                <include>org.apache.hadoop:hadoop-mapreduce-client-common:jar:3.2.4</include>
+                <include>com.fasterxml.jackson.core:jackson-databind:jar:2.13.4.2</include>
+                <include>org.apache.parquet:parquet-format:jar:2.4.0</include>
+                <include>org.apache.htrace:htrace-core4:jar:4.1.0-incubating</include>
+                <include>org.mozilla:rhino:jar:1.7.14</include>
+                <include>org.talend.daikon:audit-log4j2:jar:1.16.1</include>
+                <include>com.fasterxml.jackson.jaxrs:jackson-jaxrs-json-provider:jar:2.13.4</include>
+                <include>io.netty:netty-codec-http2:jar:4.1.86.Final</include>
+                <include>org.eclipse.jetty:jetty-util-ajax:jar:9.4.48.v20220622</include>
+                <include>org.apache.hadoop:hadoop-yarn-client:jar:3.2.4</include>
+                <include>org.apache.parquet:parquet-avro:jar:1.10.1</include>
+                <include>org.projectlombok:lombok:jar:1.18.24</include>
+                <include>org.talend.components:talendcsv:jar:1.1.0</include>
+                <include>com.squareup.okio:okio:jar:1.6.0</include>
+                <include>org.typelevel:macro-compat_2.12:jar:1.1.1</include>
+                <include>org.talend.sdk.component:component-runtime-manager:jar:1.57.1</include>
+                <include>com.github.stephenc.jcip:jcip-annotations:jar:1.0-1</include>
+                <include>org.apache.johnzon:johnzon-mapper:jar:1.2.19</include>
+                <include>aopalliance:aopalliance:jar:1.0</include>
+                <include>io.netty:netty-resolver-dns-classes-macos:jar:4.1.86.Final</include>
+                <include>com.fasterxml.jackson.module:jackson-module-jaxb-annotations:jar:2.13.4</include>
+                <include>com.sun.jersey:jersey-core:jar:1.19</include>
+                <include>org.apache.commons:commons-text:jar:1.10.0</include>
+                <include>com.cedarsoftware:json-io:jar:4.13.1-TALEND</include>
+                <include>io.netty:netty-codec:jar:4.1.86.Final</include>
+                <include>org.apache.parquet:parquet-column:jar:1.10.1</include>
+                <include>org.talend.components:azurecommon:jar:1.46.0</include>
+                <include>io.netty:netty:jar:3.10.6.Final</include>
+                <include>joda-time:joda-time:jar:2.8.2</include>
+                <include>com.github.mjakubowski84:parquet4s-core_2.12:jar:1.2.1</include>
+                <include>org.apache.commons:commons-math3:jar:3.1.1</include>
+                <include>org.talend.sdk.component:container-core:jar:1.57.1</include>
+                <include>org.codehaus.woodstox:stax2-api:jar:4.2.1</include>
+                <include>org.talend.components:stream-json:jar:1.46.0</include>
+                <include>org.apache.hadoop:hadoop-mapreduce-client-core:jar:3.2.4</include>
+                <include>io.projectreactor.netty:reactor-netty-http:jar:1.0.25</include>
+                <include>org.talend.components:common:jar:1.46.0</include>
+                <include>org.apache.xbean:xbean-reflect:jar:4.20</include>
+            </includes>
+            <useProjectArtifact>false</useProjectArtifact>
+        </dependencySet>
+        <dependencySet>
+            <outputDirectory>lib</outputDirectory>
+            <includes>
+                <include>io.netty:netty-transport-native-kqueue:jar:osx-x86_64:4.1.86.Final</include>
+                <include>io.netty:netty-transport-native-epoll:jar:linux-x86_64:4.1.86.Final</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:linux-aarch_64:2.0.56.Final</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:linux-x86_64:2.0.56.Final</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:osx-aarch_64:2.0.56.Final</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:windows-x86_64:2.0.56.Final</include>
+                <include>io.netty:netty-tcnative-boringssl-static:jar:osx-x86_64:2.0.56.Final</include>
+                <include>io.netty:netty-resolver-dns-native-macos:jar:osx-x86_64:4.1.86.Final</include>
             </includes>
             <useProjectArtifact>false</useProjectArtifact>
         </dependencySet>
