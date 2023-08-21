@@ -127,6 +127,7 @@
         "show" : true,
         "field" : "TABLE",
         "name" : "DRIVER_JAR",
+        "value" : "",
         "contextMode" : false
       }, {
         "show" : true,
@@ -335,6 +336,7 @@
         "show" : true,
         "field" : "TABLE",
         "name" : "DRIVER_JAR_IMPLICIT_CONTEXT",
+        "value" : "",
         "contextMode" : false
       }, {
         "show" : true,
